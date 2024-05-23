@@ -1,0 +1,87 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0px;
+
+}
+body{
+    background-color: #bababa;
+}
+.baner{
+    background-color: #8d8d8e;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    height: 70px;
+    float: left;
+    width: 80%;
+    line-height:60px
+}
+.baner2{
+    background-color: #8d8d8e;
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 70px;
+    float: left;
+    width: 20%;
+}
+.srodkowy{
+    background-color: #3e3e3e;
+    text-align: center;
+    width: 80%;
+    float: left;
+    height: 86.4vh;
+    color: white;
+    
+}
+.prawy{
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+
+.stopka{
+    background-color: #8d8d8e;
+    color: rgb(0, 0, 0);
+    height: 60px;
+    clear: both;
+    text-align: right;
+}
+
+table, td, th{
+    border: solid 2px #34ae9c;
+    background-color: #b8bcbb;
+    border-collapse: collapse;
+    color: black;
+}
+
+table{
+    margin: auto;
+    width: 80%;
+}
+
+td,th{
+    padding: 4px;
+}
+
+td:hover, th:hover{
+    background-color: #2f777f;
+    color: white;
+}
+
+input{
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 100px;
+    height: 25px;
+    box-shadow:  10px  5px  5px #2f777f;
+}
+
+input:hover{
+    background-color: #2f777f;
+    color: white;
+    box-shadow:  10px  5px  5px #34ae9c;
+}
+ul, li{
+    text-align: left;
+}
